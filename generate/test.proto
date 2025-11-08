@@ -1,0 +1,4 @@
+enum Test {
+    VALUE_A = 0;
+    VALUE_B = 1;
+}
